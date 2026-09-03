@@ -1,6 +1,6 @@
 # Employee Attendance Management System (MERN)
 
-A simple Employee Attendance Management System made using the **MERN Stack** for the developer assignment.
+A simple Employee Attendance Management System made using the MERN.
 
 ## Tech Stack
 - MongoDB
@@ -116,6 +116,3 @@ The project covers the requirements given in the assignment:
 - Employee Dashboard
 - Attendance Status Tracking
 
-## Note
-
-This project is intentionally kept simple and understandable for a fresher/student submission. The code is organized into models, routes, middleware and React pages so it is easy to explain in an interview.
