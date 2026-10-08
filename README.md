@@ -77,7 +77,7 @@ Frontend: normally `http://localhost:5173`
 ### HR
 ```text
 Email: hr@example.com
-Password: Admin@123
+Password: employee@123
 ```
 
 ### Employee
